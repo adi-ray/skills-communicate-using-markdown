@@ -13,3 +13,10 @@
 ``` javascript
 var myVar = "Hello, Aditya!";
 ```
+
+------
+
+- [x] Add Header
+- [x] Add an Image
+- [x] Add Code
+- [ ] Make a task list
