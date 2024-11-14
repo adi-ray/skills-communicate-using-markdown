@@ -7,3 +7,9 @@
 ------
 
 ![Profile Image](https://avatars.githubusercontent.com/u/96347576?v=4)
+
+------
+
+``` javascript
+var myVar = "Hello, Aditya!";
+```
